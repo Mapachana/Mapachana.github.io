@@ -1,31 +1,24 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+#Mr.Brown is a responsive Jekyll theme
+=========================
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+![](assets/images/mr.brown.jpg)
 
-## Demo
+# Demo
+View this jekyll theme in action [here](http://artemsheludko.pw/mr-brown/)
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+Integrations
+  - [Google Fonts](https://fonts.google.com/)
+  - [Disqus](https://disqus.com/)
+  - [txtpen](https://txtpen.com/)
+  - [Font Awesome](http://fontawesome.io/)
+  - Social media links
 
-The main page would look like this:
+# How to Use
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+  For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
+  or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
+  and [creating pages](https://jekyllrb.com/docs/pages/).
 
-The post page would look like this:
+## License
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
-
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
-
-## Installation:
-
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
-
-### License
-
-GNU General Public License v3.0
+MIT License
