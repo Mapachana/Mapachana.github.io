@@ -1,19 +1,11 @@
-# Jekyll Resume Theme
+title: Starter Template
+author: Panoramedia
+email: panoramedia@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A Site Starter Materialize Templates for Jekyll
 
-# Site settings
-title: Jekyll Resume
-email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
-baseurl: "http://mattcouchman.co.uk/jekyll-resume/"
-url: "http://mattcouchman.co.uk/jekyll-resume/"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+twitter_username: macrod68
+github_username:  macrod68
 
-# Build settings
-markdown: kramdown
+sass:
+    style: compressed

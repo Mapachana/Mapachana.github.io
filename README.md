@@ -1,13 +1,20 @@
-# Jekyll Resume Theme
+# Jekyll Materialize Starter Template v0.1
 
-A mega simple Jekyll theme for displaying a resume/cv online.
+*A Site Starter Materialize Templates.
 
-The theme follows the default Jekyll build as closely as possible to avoid any dependency issues.
+The theme is a fork of the [minima][1]
 
-To customise you just need to fill out the `_config.yml` and the jobs and education `.yml` files in the `_data` directory with your own details.
+![minima theme preview](/screenshot.png)
 
-You can see a demo of the theme at: [mattcouchman.github.com/jekyll-resume](http://mattcouchman.github.com/jekyll-resume)
 
-Feel free to tear apart and rebuild as you wish.
+# License
 
-![Screenshot of resume theme](https://github.com/mattcouchman/jekyll-resume/raw/master/img/screen.png)
+The theme is available as open source under the terms of the [MIT License][2].
+
+[Materialize][3] a  modern responsive front-end framework based on Material Design
+
+Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
+
+[1]: https://github.com/jekyll/minima
+[2]: https://opensource.org/licenses/MIT
+[3]: http://materializecss.com/
