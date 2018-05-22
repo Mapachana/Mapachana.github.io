@@ -1,11 +1,11 @@
-title: My blog
-author: Mapachana
-email: sk.lof@gmail.com
+title: Starter Template
+author: Panoramedia
+email: panoramedia@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A site where I can test things
+  A Site Starter Materialize Templates for Jekyll
 
-twitter_username: jaja
-github_username:  Mapachana
+twitter_username: macrod68
+github_username:  macrod68
 
 sass:
     style: compressed
