@@ -1,32 +1,68 @@
-<nav class="light-blue lighten-1" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}">Logos</a>
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
-
-          <ul class="right hide-on-med-and-down">
-            <li><a href="{{ "/" | relative_url }}">Home </a></li>
-            {% if page_paths %}
-                {% for path in page_paths %}
-                    {% assign my_page = site.pages | where: "path", path | first %}
-                    {% if my_page.title %}
-                    <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
-                    {% endif %}
-                {% endfor %}
-            {% endif %}              
-          </ul>
-
-          <ul id="nav-mobile" class="side-nav">
-            <li><a href="#">Home</a></li>
-                            {% if page_paths %}
-                {% for path in page_paths %}
-                    {% assign my_page = site.pages | where: "path", path | first %}
-                    {% if my_page.title %}
-                    <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
-                    {% endif %}
-                {% endfor %}
-            {% endif %} 
-          </ul>        
-
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
-    </div>
-</nav>
+<header class="header">
+	<div class="header-container">
+		<div class="nav">
+			{% if page.path == "index.html" %}
+			<span class="title">
+				<li>
+					<a href="/index.html">home</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="/index.html">home</a>
+				</li>			
+			{% endif %}
+			{% if page.path == "archive.html" %}
+			<span class="title">
+				<li>
+					<a href="/archive.html">archive</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="/archive.html">archive</a>
+				</li>			
+			{% endif %}
+			{% if page.path == "category.html" %}
+			<span class="title">
+				<li>
+					<a href="/category.html">category</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="/category.html">category</a>
+				</li>			
+			{% endif %}
+			{% if page.path == "about.html" %}
+			<span class="title">
+				<li>
+					<a href="/about.html">about</a>
+				</li>
+			</span>			
+			{% else %}
+				<li>
+					<a href="/about.html">about</a>
+				</li>			
+			{% endif %}
+		</div>
+		<div class="description"> {{ site.motto }} </div>		
+		<ul class="social-links">
+			<li>
+				<a href="https://github.com/{{ site.github_username }}" title="Github">
+					<img width="19px" height="19px" src="/images/github.png"/>
+				</a>
+			</li>
+			<li>
+				<a href="/feed.xml" title="RSS">
+					<img width="19px" height="19px" src="/images/rss.png"/>
+				</a>
+			</li>
+			<li>
+				<a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+					<img width="19px" height="19px" src="/images/twitter.png"/>
+				</a>
+			</li>
+		</ul>		
+	</div>
+</header>

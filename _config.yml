@@ -1,11 +1,13 @@
-title: My blog
-author: Mapachana
-email: sk.lofa@gmail.com
+# Site settings
+title: Mapachana's blog
+motto: My motto
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Site where I can start testing things
-
-twitter_username: Mapachana
+  This is my description
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: ana_b_r_a
 github_username:  Mapachana
 
-#sass:
-#    style: compressed
+# Build settings
+markdown: kramdown
