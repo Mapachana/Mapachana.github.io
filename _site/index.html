@@ -1,124 +1,400 @@
-<!DOCTYPE html>
-<html>    
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="es" class="no-js">
   <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width initial-scale=1">
+    <meta charset="utf-8">
 
-  <title>Mapachana's blog</title>
-  <meta name="description" content="This is my description
-">
-
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
-  <link rel="alternate" type="application/atom+xml" title="Mapachana's blog" href="http://localhost:4000/feed.xml" />
-  <script src="/scripts/jquery-1.11.2.min.js"></script>
-  <script src="/scripts/pithy.js"></script>
-</head>
+<!-- begin _includes/seo.html --><title>La cueva de Mapachana</title>
+<meta name="description" content="No sé qué voy a poner aquí todavía pero algo subiré (espero)">
 
 
-<!LaTeX support:>
-<script type="text/javascript"
-    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  <meta name="author" content="Mapachana">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="es">
+<meta property="og:site_name" content="La cueva de Mapachana">
+<meta property="og:title" content="La cueva de Mapachana">
+<meta property="og:url" content="http://localhost:4000/">
+
+
+  <meta property="og:description" content="No sé qué voy a poner aquí todavía pero algo subiré (espero)">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/">
+
+
+
+
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+    "name": "Mapachana",
+    "url": "http://localhost:4000/"
+}
 </script>
 
-  <body>
-    <header class="header">
-	<div class="header-container">
-		<div class="nav">
-			
-			<span class="title">
-				<li>
-					<a href="/index.html">home</a>
-				</li>
-			</span>			
-			
-			
-				<li>
-					<a href="/archive.html">archive</a>
-				</li>			
-			
-			
-				<li>
-					<a href="/category.html">category</a>
-				</li>			
-			
-			
-				<li>
-					<a href="/about.html">about</a>
-				</li>			
-			
-		</div>
-		<div class="description"> My motto </div>		
-		<ul class="social-links">
-			<li>
-				<a href="https://github.com/Mapachana" title="Github">
-					<img width="19px" height="19px" src="/images/github.png"/>
-				</a>
-			</li>
-			<li>
-				<a href="/feed.xml" title="RSS">
-					<img width="19px" height="19px" src="/images/rss.png"/>
-				</a>
-			</li>
-			<li>
-				<a href="https://twitter.com/ana_b_r_a" title="Twitter">
-					<img width="19px" height="19px" src="/images/twitter.png"/>
-				</a>
-			</li>
-		</ul>		
-	</div>
-</header>
 
-    <br>
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="home">
-  <ul class="post-list">
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="La cueva de Mapachana Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--home" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Saltar a navegación principal</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Saltar a contenido</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Saltar a pie</a></li>
+  </ul>
+</nav>
+
     
-      <li>
-        <br>
-        <h3>
-          <a class="post-link" href="/jekyll/update/pruebas/2018/09/07/mi-post.html">Post nuevo</a>
-        </h3>
-        <span class="post-meta">Sep 7, 2018 13:09</span>
-        <hr id="line">
-		<div class="content">
-		<p>Esto es un post.</p>
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          La cueva de Mapachana
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
+                
+                
+              >Quick-Start Guide</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="https://mmistakes.github.io/minimal-mistakes/about/"
+                
+                
+              >About</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/year-archive/"
+                
+                
+              >Sample Posts</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/collection-archive/"
+                
+                
+              >Sample Collections</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/sitemap/"
+                
+                
+              >Sitemap</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Alternar menú</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
 
 
-        </div>
-		<br>
-      </li>
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Mapachana</a>
+    </h3>
     
-      <li>
-        <br>
-        <h3>
-          <a class="post-link" href="/jekyll/update/2015/04/09/welcome-to-jekyll-copy.html">Welcome to Jekyll!</a>
-        </h3>
-        <span class="post-meta">Apr 9, 2015 13:04</span>
-        <hr id="line">
-		<div class="content">
-		<p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+      <div class="author__bio p-note" itemprop="description">
+        <p>Aquí va mi biografía hola.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Seguir</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Somewhere</span>
+        </li>
+      
+
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
 
 
-        </div>
-		<br>
-      </li>
+
+  <div class="archive">
+    
+      <h1 id="page-title" class="page__title"></h1>
+    
+    
+
+<h3 class="archive__subtitle">Entradas recientes</h3>
+
+
+
+
+<div class="entries-list">
+  
+
+
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/title/" rel="permalink">Title
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2025-04-02T00:00:00+02:00">April 2, 2025</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          menos de 1 minuto(s) de lectura
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">ESTO ES UN EJEMPLO LOLO
+
+</p>
+  </article>
+</div>
+
+</div>
+
+
+
+
+  </div>
+</div>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Seguir:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
     
   </ul>
 </div>
 
-      </div>
+<div class="page__footer-copyright">&copy; 2025 <a href="http://localhost:4000">La cueva de Mapachana</a>. Funciona con <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
     </div>
-    
-    <footer class="footer">
-  <div id="gotop">^</div>
-  <br>
-	This blog is run by jekyll with kactus template.
-</footer>
 
     
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
   </body>
-
 </html>
