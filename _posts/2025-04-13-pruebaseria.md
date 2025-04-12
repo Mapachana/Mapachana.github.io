@@ -1,6 +1,5 @@
 ---
 title: "Pruebas de entrada seria"
-excerpt: "Minidescripcion"
 excerpt_separator: <!--more-->
 #categories:
 #  - Layout
