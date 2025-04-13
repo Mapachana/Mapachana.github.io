@@ -1,5 +1,6 @@
 ---
 title: "Pruebas de entrada seria"
+excerpt: "Minidescripcion"
 excerpt_separator: <!--more-->
 #categories:
 #  - Layout
@@ -17,6 +18,6 @@ Additional content before the more tag.
 
 And this content is after the more tag.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/profilepic.jpg" alt="">
+![texto alternativo]({{ site.url }}{{ site.baseurl }}/assets/images/profilepic.jpg)
 
 Texto debajo de imagen

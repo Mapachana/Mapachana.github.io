@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-13T01:31:48+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">La cueva de Mapachana</title><subtitle>Un pequeño blog para ir subiendo mis cosillas.</subtitle><author><name>Mapachana</name></author><entry><title type="html">Pruebas de entrada seria</title><link href="http://localhost:4000/pruebaseria/" rel="alternate" type="text/html" title="Pruebas de entrada seria" /><published>2025-04-13T00:00:00+02:00</published><updated>2025-04-13T00:00:00+02:00</updated><id>http://localhost:4000/pruebaseria</id><content type="html" xml:base="http://localhost:4000/pruebaseria/"><![CDATA[<p>This content is before the <a href="http://jekyllrb.com/docs/posts/#post-excerpts">excerpt separator tag</a>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-13T02:00:22+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">La cueva de Mapachana</title><subtitle>Un pequeño blog para ir subiendo mis cosillas.</subtitle><author><name>Mapachana</name></author><entry><title type="html">Pruebas de entrada seria</title><link href="http://localhost:4000/pruebaseria/" rel="alternate" type="text/html" title="Pruebas de entrada seria" /><published>2025-04-13T00:00:00+02:00</published><updated>2025-04-13T00:00:00+02:00</updated><id>http://localhost:4000/pruebaseria</id><content type="html" xml:base="http://localhost:4000/pruebaseria/"><![CDATA[<p>This content is before the <a href="http://jekyllrb.com/docs/posts/#post-excerpts">excerpt separator tag</a>.</p>
 
 <p>Additional content before the more tag.</p>
 
@@ -6,7 +6,17 @@
 
 <p>And this content is after the more tag.</p>
 
-<p><img src="http://localhost:4000//assets/images/profilepic.jpg" alt="" /></p>
+<p><img src="http://localhost:4000//assets/images/profilepic.jpg" alt="texto alternativo" /></p>
+
+<p>Texto debajo de imagen</p>]]></content><author><name>Mapachana</name></author><category term="prueba" /><category term="tests" /><summary type="html"><![CDATA[Minidescripcion]]></summary></entry><entry><title type="html">Pruebas de entrada seria SIN IMAGEN</title><link href="http://localhost:4000/etiquetasALGOVAMAL/" rel="alternate" type="text/html" title="Pruebas de entrada seria SIN IMAGEN" /><published>2025-04-03T00:00:00+02:00</published><updated>2025-04-03T00:00:00+02:00</updated><id>http://localhost:4000/etiquetasALGOVAMAL</id><content type="html" xml:base="http://localhost:4000/etiquetasALGOVAMAL/"><![CDATA[<p>This content is before the <a href="http://jekyllrb.com/docs/posts/#post-excerpts">excerpt separator tag</a>.</p>
+
+<p>Additional content before the more tag.</p>
+
+<!--more-->
+
+<p>And this content is after the more tag.</p>
+
+<p>ERA LA IMAGEN ALL ALONG</p>
 
 <p>Texto debajo de imagen</p>]]></content><author><name>Mapachana</name></author><category term="prueba" /><category term="tests" /><summary type="html"><![CDATA[Minidescripcion]]></summary></entry><entry><title type="html">Layout: More Tag</title><link href="http://localhost:4000/etiquetas/" rel="alternate" type="text/html" title="Layout: More Tag" /><published>2025-04-03T00:00:00+02:00</published><updated>2025-04-03T00:00:00+02:00</updated><id>http://localhost:4000/etiquetas</id><content type="html" xml:base="http://localhost:4000/etiquetas/"><![CDATA[<p>This content is before the <a href="http://jekyllrb.com/docs/posts/#post-excerpts">excerpt separator tag</a>.</p>
 
