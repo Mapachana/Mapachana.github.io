@@ -21,5 +21,3 @@ And this content is after the more tag.
 ![texto alternativo]({{ site.url }}{{ site.baseurl }}/assets/images/profilepic.jpg)
 
 Texto debajo de imagen
-
-Actualiza?
