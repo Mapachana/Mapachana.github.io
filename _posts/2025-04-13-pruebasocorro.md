@@ -1,5 +1,5 @@
 ---
-title: "Pruebas de entrada seria"
+title: "Pruebas de entrada seriaabril"
 excerpt: "Minidescripcion"
 excerpt_separator: <!--more-->
 #categories:
