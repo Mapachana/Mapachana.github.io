@@ -7,3 +7,5 @@ toc: false
 ---
 
 Aquí hablo de cositas sobre mí.
+
+[enlace]({{ site.url }}{{ site.baseurl }}/cv/)

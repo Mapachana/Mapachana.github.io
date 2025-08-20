@@ -1,31 +1,41 @@
 ---
-title: "Chocolate Chip Cookies"
+title: "Portfolio"
+permalink: /portfolio/
 ---
 
-A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
 
-The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate as well as additional ingredients such as nuts or oatmeal.
 
-This recipe makes 4 dozen cookies.
+## Desarrollo de videojuegos
 
-## Ingredients
+He participado en múltiples Game Jams, consistentes en desarrollar un juego completo en 48 horas, como programadora en [BuendiaGames](https://buendiagames.itch.io/), un equipo formado por mi hermano y por mí, y otros grupos.
 
-* 2 1/4 cups all-purpose flour
-* 1 teaspoon baking soda
-* 1/2 teaspoon salt
-* 1 cup butter, softened and cut to pieces
-* 1 cup sugar
-* 1 cup light brown sugar, packed
-* 2 teaspoons vanilla extract
-* 2 large eggs
-* 2 cups semi-sweet chocolate chips
-* 1/2 teaspoon nutmeg (optional)
-* 1 cup chopped pecans or walnuts (optional)
+En 2025, el juego que presentamos para la Global Game Jam ganó 3 premios en la sede presencial:
 
-## Directions
+- Premio a "Mejor música".
+- Premio a "Mejor creatividad".
+- Premio a "Mejor animación".
 
-1. Preheat the oven to 350 F.
-2. In a medium bowl, whisk flour with baking soda, nutmeg and salt.
-3. In a large bowl, beat butter with sugar and brown sugar until creamy and light. Add vanilla and eggs, one at a time, and mix until incorporated.
-4. Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.
-5. Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling
+Todos los juegos que he desarrollado se encuentran en [itch.io](https://buendiagames.itch.io/), estando disponibles para jugar en navegador, multiplataforma e incluso desde el móvil.
+
+- [Global Game Jam 2025](https://3dgoblindev.itch.io/echar-de-menos).
+- [SpookyEscape](https://buendiagames.itch.io/spooky-escape).
+- [Global Game Jam 2024](https://buendiagames.itch.io/crooked-teeth).
+- [GMTK Game Jam 2020](https://buendiagames.itch.io/control-robots).
+- [GMTK Game Jam 2019](https://buendiagames.itch.io/the-only-man-and-the-sea).
+- [Rayuela de arena Jam 20](https://buendiagames.itch.io/practicas-en-petra)
+
+Junto a todo esto, durante el año 2025 participé como staff voluntario para colaborar en la organización del evento relativo a la Global Game Jam con sede en Granada.
+
+## Programación
+
+- Construcción de un [contenedor docker con Python 3.10 y Poetry](https://github.com/Mapachana/Python-3.10-with-poetry).
+- [Máquina Enigma en Python](https://github.com/Mapachana/Practicas-SPSI/tree/master/Tarea1).
+- [Rediseño de una página web](https://github.com/Mapachana/DIU21-TrabajoFinal).
+- [Blog personal con Jekyll](https://mapachana.github.io/).
+- [Trabajo sobre epidemiología con web interactiva](https://github.com/Mapachana/TFG).
+
+## Material de estudio
+
+Durante los años en la universidad, estuve colaborando de forma activa en la realización y mantenimiento de [LibreIM](https://libreim.github.io/), una organización enfocada en elaborar, completar y corregir materiales de estudio de las materias relativas a los grados universitarios de matemáticas e ingeniería informática.
+
+Además, realicé diversos apuntes y materiales de distintas materias a nivel individual, que pueden encontrarse [aquí](https://github.com/Mapachana/Apuntes).
