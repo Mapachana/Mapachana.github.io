@@ -1,0 +1,87 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
+
+<h2>Mi CV</h2>
+
+
+  <!-- LÍNEA DEL TIEMPO-->
+  <div class="timeline">
+    <div class="timeline-item">
+      <h3>Department of Computer Science</h3>
+      <p>National Tsing Hua University, Taiwan</p>
+      <p class="date">2015 - 2019</p>
+    </div>
+    <div class="timeline-item">
+      <h3>Institute of Computer Science and Engineering</h3>
+      <p>National Chiao Tung University, Taiwan</p>
+      <p class="date">2020 - present</p>
+    </div>
+  </div>
+
+
+  <style>
+    body {
+      padding: 2rem;
+    }
+
+    .timeline {
+      position: relative;
+      margin: 2rem 0;
+      padding-left: 3rem; /* keeps text away from line + circles */
+    }
+
+    /* vertical line */
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 1.5rem;  /* LINE POSITION */
+      top: 0;
+      bottom: 0;
+      width: 0.2rem;
+      background: #0d1b2a;
+    }
+
+    .timeline-item {
+      position: relative;
+      margin-bottom: 2rem;
+    }
+
+    .timeline-item:last-child {
+      margin-bottom: 0;
+    }
+
+    /* circles aligned perfectly with line */
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: 1.5rem;   /* SAME as line */
+      top: 0.4rem;
+      width: 1.1rem;
+      height: 1.1rem;
+      border: 0.2rem solid #0d1b2a;
+      border-radius: 50%;
+      background: #fff;
+      transform: translate(-245%,-25%); /* centers circle on line */
+    }
+
+    .timeline-item h3 {
+      margin: 0;
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+
+    .timeline-item p {
+      margin: 0.3rem 0;
+      font-size: 1rem;
+      color: #333;
+    }
+
+    .timeline-item .date {
+      font-size: 0.9rem;
+      color: gray;
+    }
+  </style>

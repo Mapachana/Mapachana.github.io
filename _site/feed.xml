@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-20T02:08:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">La cueva de Mapachana</title><subtitle>Un pequeño blog para ir subiendo mis cosillas.</subtitle><author><name>Mapachana</name></author><entry><title type="html">Receta de galletas de chocolate</title><link href="http://localhost:4000/galletaschocolate/" rel="alternate" type="text/html" title="Receta de galletas de chocolate" /><published>2025-08-19T00:00:00+02:00</published><updated>2025-08-19T00:00:00+02:00</updated><id>http://localhost:4000/galletaschocolate</id><content type="html" xml:base="http://localhost:4000/galletaschocolate/"><![CDATA[<p>Receta de galletas con pintitas de chocolate fáciles de hacer (de verdad) y con ingredientes simples.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://mapachana.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mapachana.github.io/" rel="alternate" type="text/html" /><updated>2025-08-20T02:51:59+02:00</updated><id>https://mapachana.github.io/feed.xml</id><title type="html">La cueva de Mapachana</title><subtitle>Un pequeño blog para ir subiendo mis cosillas.</subtitle><author><name>Mapachana</name></author><entry><title type="html">Receta de galletas de chocolate</title><link href="https://mapachana.github.io/galletaschocolate/" rel="alternate" type="text/html" title="Receta de galletas de chocolate" /><published>2025-08-19T00:00:00+02:00</published><updated>2025-08-19T00:00:00+02:00</updated><id>https://mapachana.github.io/galletaschocolate</id><content type="html" xml:base="https://mapachana.github.io/galletaschocolate/"><![CDATA[<p>Receta de galletas con pintitas de chocolate fáciles de hacer (de verdad) y con ingredientes simples.</p>
 
-<p><img src="http://localhost:4000//assets/images/galletaschocolate/galletas1.png" alt="Foto de galletas de chocolate." /></p>
+<p><img src="https://mapachana.github.io//assets/images/galletaschocolate/galletas1.png" alt="Foto de galletas de chocolate." /></p>
 
 <p>La lista de ingredientes está pensada para tener galletas por encima de las capacidades de consumir de una sola persona.</p>
 
@@ -26,7 +26,7 @@
   <li>Coge trozos de masa del tamaño que más te guste y forma galletas. Para ello aplasta la masa y dales forma redondeada.</li>
 </ol>
 
-<p><img src="http://localhost:4000//assets/images/galletaschocolate/galletas2.png" alt="Foto de masa de galletas de chocolate." /></p>
+<p><img src="https://mapachana.github.io//assets/images/galletaschocolate/galletas2.png" alt="Foto de masa de galletas de chocolate." /></p>
 
 <ol>
   <li>Añade alguna pintita de chocolate más a tus galletas por encima para que estén más ricas y bonitas.</li>
@@ -35,9 +35,9 @@
 
 <p>¡Y listo! A comer galletas de chocolate como si no hubiera un mañana.</p>
 
-<p><img src="http://localhost:4000//assets/images/galletaschocolate/galletas1.png" alt="Foto de galletas de chocolate." /></p>
+<p><img src="https://mapachana.github.io//assets/images/galletaschocolate/galletas1.png" alt="Foto de galletas de chocolate." /></p>
 
-<p><em>Nota: esta receta es una adaptación de la receta original que se puede ver en este <a href="https://www.youtube.com/watch?v=IbW2-_JYN80&amp;ab_channel=Annarecetasfaciles">vídeo de youtube</a></em></p>]]></content><author><name>Mapachana</name></author><category term="recetas" /><summary type="html"><![CDATA[Receta de galletas con pintitas de chocolate]]></summary></entry><entry><title type="html">Pruebas de entrada seria</title><link href="http://localhost:4000/pruebaseria/" rel="alternate" type="text/html" title="Pruebas de entrada seria" /><published>2025-04-13T00:00:00+02:00</published><updated>2025-04-13T00:00:00+02:00</updated><id>http://localhost:4000/pruebaseria</id><content type="html" xml:base="http://localhost:4000/pruebaseria/"><![CDATA[<p>This content is before the <a href="http://jekyllrb.com/docs/posts/#post-excerpts">excerpt separator tag</a>.</p>
+<p><em>Nota: esta receta es una adaptación de la receta original que se puede ver en este <a href="https://www.youtube.com/watch?v=IbW2-_JYN80&amp;ab_channel=Annarecetasfaciles">vídeo de youtube</a></em></p>]]></content><author><name>Mapachana</name></author><category term="recetas" /><summary type="html"><![CDATA[Receta de galletas con pintitas de chocolate]]></summary></entry><entry><title type="html">Pruebas de entrada seria</title><link href="https://mapachana.github.io/pruebaseria/" rel="alternate" type="text/html" title="Pruebas de entrada seria" /><published>2025-04-13T00:00:00+02:00</published><updated>2025-04-13T00:00:00+02:00</updated><id>https://mapachana.github.io/pruebaseria</id><content type="html" xml:base="https://mapachana.github.io/pruebaseria/"><![CDATA[<p>This content is before the <a href="http://jekyllrb.com/docs/posts/#post-excerpts">excerpt separator tag</a>.</p>
 
 <p>Additional content before the more tag.</p>
 
@@ -45,7 +45,7 @@
 
 <p>And this content is after the more tag.</p>
 
-<p><img src="http://localhost:4000//assets/images/profilepic.jpg" alt="texto alternativo" /></p>
+<p><img src="https://mapachana.github.io//assets/images/profilepic.jpg" alt="texto alternativo" /></p>
 
 <p>Texto debajo de imagen</p>
 
