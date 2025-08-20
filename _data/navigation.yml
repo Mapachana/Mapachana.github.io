@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Posts"
     url: /year-archive/
-  - title: "Colecciones"
-    url: /collection-archive/
+  - title: "CV y portfolio"
+    url: /cv-portfolio/
   - title: "Etiquetas"
     url: /tags/
   - title: "Sitemap"
